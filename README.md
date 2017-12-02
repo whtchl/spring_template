@@ -31,5 +31,9 @@ InitializingBean,DisposableBean的 afterPropertiesSet ，destroy方法优先于
     xsi:schemaLocation="http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd" 
   default-init-method="defautInit" default-destroy-method="defaultDestroy" >
+  
+  
+  
+ 8. ApplicationContextAware and BeanNameAware
  
  
